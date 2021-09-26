@@ -29,7 +29,7 @@ twitter_username: elrui
 github_username:  elrui
 
 # Build settings
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
