@@ -22,7 +22,7 @@ title: Rui Santos
 email: dev@ruisantos.net
 description: >- # this means to ignore newlines until "baseurl:"
   Base development site for Rui Santos
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/site" # the subpath of your site, e.g. /blog
 url: "https://elrui.githyb.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: elrui
 github_username:  elrui
