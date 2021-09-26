@@ -28,7 +28,7 @@ twitter_username: elrui
 github_username:  elrui
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
